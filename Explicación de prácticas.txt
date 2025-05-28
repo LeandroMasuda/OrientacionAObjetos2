@@ -1,0 +1,32 @@
+Explicaciones de práctica:
+
+Lunes 18/3
+https://bigbluebutton.linti.unlp.edu.ar/playback/presentation/2.3/0d6f4a7a910ccfaf945183ac6b04655511ded333-1710787947023
+
+Lunes 25/3
+https://bigbluebutton.linti.unlp.edu.ar/playback/presentation/2.3/64394b644385d9ca00dc50170f4b2d0d9f5ce95e-1711393323743
+
+Lunes 8/4
+https://bigbluebutton.linti.unlp.edu.ar/playback/presentation/2.3/c4b4c23b77cbf0053f6e7a0b6c4e357e0708815b-1712602677334
+
+Lunes 15/4
+https://bigbluebutton.linti.unlp.edu.ar/playback/presentation/2.3/1c5f14c712ec01470c74570e6faee66d16405b41-1713207250376
+
+Lunes 22/4
+https://bigbluebutton.linti.unlp.edu.ar/playback/presentation/2.3/e06fa53e0100562c93c3558737eadfca1b4ac290-1713812245773
+
+Lunes 6/5 (Type object)
+https://bigbluebutton.linti.unlp.edu.ar/playback/presentation/2.3/a0d81168d36ae8f2e644b307d40fb2472ce5951a-1715021895838
+
+Lunes 13/5 (Refactoring)
+https://bigbluebutton.linti.unlp.edu.ar/playback/presentation/2.3/322a6717ab0feacf5b476e656ffa96caa9c8567d-1715626804729
+
+Lunes 20/5 (Refactoring)
+https://bigbluebutton.linti.unlp.edu.ar/playback/presentation/2.3/2494e5a9c9a36ec0b2e9265a9561eef684d1ffeb-1716231765785
+
+Lunes 27/5 (Frameworks)
+https://bigbluebutton.linti.unlp.edu.ar/playback/presentation/2.3/e9ca37665a87efe724f89ae48546404e08a62812-1716836315089
+
+Clases:
+Patrones:
+https://bigbluebutton.linti.unlp.edu.ar/playback/presentation/2.3/3b311b126c4d31e54698c9116fa5d0f2c45ad217-1713379309174 
